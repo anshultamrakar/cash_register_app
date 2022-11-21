@@ -32,8 +32,6 @@ function calculateChange(amountToBeReturned){
 }
 
 
-
-
 function showMessage(msg){
     message.style.display = "block"
     message.innerHTML = msg;
