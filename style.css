@@ -15,7 +15,7 @@ body{
     flex-direction: column;
     background-color: #333;
     color: #fff;
-     padding: 3.5rem;
+    padding: 3.5rem;
     justify-content: center;
     align-items: center;
     gap:1rem;
@@ -25,7 +25,7 @@ body{
 
 input{
     width: 35%;
-    height: 4vh;
+    height: 3vh;
     font-family: 'Nunito', sans-serif;
     font-size: 1rem;
 }
@@ -39,3 +39,13 @@ button{
     font-weight: bold;
     height: 4vh;
 }
+
+table, th, td {
+    border: 1px solid;
+    padding: 1rem;
+ 
+  }
+
+  caption{
+    margin-bottom: 1.5rem;
+  }
